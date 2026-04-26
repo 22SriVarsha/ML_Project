@@ -13,7 +13,10 @@ Features
 
   Dataset
 
-This project uses the Nutrition5k dataset.
+This project uses the Nutrition5k dataset. Create a folder named 'data' and add the files into the folder as in the below structure.
+
+<img width="313" height="174" alt="image" src="https://github.com/user-attachments/assets/b6acb126-1a88-41b9-a259-8b0598ce7508" />
+
 
 Dataset includes:
 
