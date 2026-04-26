@@ -91,6 +91,8 @@ It also generates:
   USDA nutritional mapping
   Mobile application deployment
   Personalized dietary recommendation system
+
+  
 **Authors**
 Sri Varsha Maram – U01131261 
 Sri Charan Vutukuru – U01113789
